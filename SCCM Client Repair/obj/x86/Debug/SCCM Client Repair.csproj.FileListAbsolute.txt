@@ -1,0 +1,9 @@
+c:\users\aminb\documents\visual studio 2010\Projects\SCCM Client Repair\SCCM Client Repair\bin\Debug\SCCM Client Repair.exe
+c:\users\aminb\documents\visual studio 2010\Projects\SCCM Client Repair\SCCM Client Repair\bin\Debug\SCCM Client Repair.pdb
+c:\users\aminb\documents\visual studio 2010\Projects\SCCM Client Repair\SCCM Client Repair\obj\x86\Debug\SCCM_Client_Repair.Form1.resources
+c:\users\aminb\documents\visual studio 2010\Projects\SCCM Client Repair\SCCM Client Repair\obj\x86\Debug\SCCM_Client_Repair.Properties.Resources.resources
+c:\users\aminb\documents\visual studio 2010\Projects\SCCM Client Repair\SCCM Client Repair\obj\x86\Debug\SCCM Client Repair.csproj.GenerateResource.Cache
+c:\users\aminb\documents\visual studio 2010\Projects\SCCM Client Repair\SCCM Client Repair\obj\x86\Debug\SCCM Client Repair.exe
+c:\users\aminb\documents\visual studio 2010\Projects\SCCM Client Repair\SCCM Client Repair\obj\x86\Debug\SCCM Client Repair.pdb
+C:\Users\aminb\documents\visual studio 2010\Projects\SCCM Client Repair\SCCM Client Repair\bin\Debug\SCCM Client Repair.exe.config
+C:\Users\aminb\documents\visual studio 2010\Projects\SCCM Client Repair\SCCM Client Repair\obj\x86\Debug\SCCM Client Repair.csprojResolveAssemblyReference.cache
